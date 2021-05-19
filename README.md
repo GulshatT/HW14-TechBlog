@@ -1,6 +1,6 @@
-# 14 Model-View-Controller (MVC): Tech Blog
+# 14(MVC): Tech Blog
 
-## HEROKU LINK 
+## Heroku Link
 
 ## User Story
 
