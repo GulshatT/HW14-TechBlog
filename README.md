@@ -1,6 +1,7 @@
 # 14(MVC): Tech Blog
 
 ## Heroku Link
+https://nameless-woodland-25769.herokuapp.com/
 
 ## User Story
 
